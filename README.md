@@ -218,3 +218,14 @@ Consulta `todo.md` para ver las mejoras propuestas (memoria de sesión, validaci
 - Salida tarda en verse
   - `shell` imprime `stdout>` en streaming; si el comando no escribe líneas, la salida aparecerá al finalizar.
   - Para ver errores, revisa `stderr>` al final o usa comandos con salida por línea.
+
+---
+
+## 📄 Licencia
+
+MIT. Ver [`LICENSE`](./LICENSE).
+
+## 👤 Autor
+
+**Alejandro Huerta** — Senior Frontend / Tools Engineer. Madrid (remoto).
+[github.com/ahuertam](https://github.com/ahuertam) · [linkedin.com/in/alejandrohuertaengineer](https://linkedin.com/in/alejandrohuertaengineer)
